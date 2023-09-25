@@ -1,11 +1,11 @@
 #include <isostream>
-using namespace std;
+
 int main()
 {
-        cout << "Введите имя пользователя: ";
-        cout string name;
-        cout cin >> name;
-        cout <<"Hello world " << name << "!";
+        std::cout << "Введите имя пользователя: ";
+        std::cout string name;
+        std::cout cin >> name;
+        std::cout <<"Hello world " << name << "!";
         return 0;
 }
 
